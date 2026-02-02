@@ -1,0 +1,7 @@
+target:
+  - url: "docs/"
+  - url: "README.md"
+
+include:  []
+
+reinit: "a-random-string"
